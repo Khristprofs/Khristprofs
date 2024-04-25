@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Khristprofs
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning software engineering 
+- 👋 Hi, I’m Nweke Chinonso Christian
+- 👀 I’m interested in content writing 
+- 🌱 I’m currently a content writer 
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me, you can reach me via email nwekechristian890@gmail.com
 
