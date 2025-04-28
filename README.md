@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nweke Chinonso Christian
-- 👀 I’m front-end developer, content writer, and a virtual assistant 
-- 🌱 I’m currently a software developer 
+- 👀 I’m a virtual assistant, google content manager, full-stack web developer
+- 🌱 I’m currently a software developer
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me, you can reach me via email nwekechristian890@gmail.com
 
